@@ -1,0 +1,1 @@
+# Тестирование API. CI. Задание 3 "Postman Echo" [![Build status](https://ci.appveyor.com/api/projects/status/l98m2aa87ndl8d34?svg=true)](https://ci.appveyor.com/project/persikfloro/postmanecho)
